@@ -1,4 +1,4 @@
-<h1>AWS-EC2-Remote-Connection</h1>>
+<h1>AWS-EC2-Remote-Connection</h1>
 AWS EC2 Remote Connection
 This is a Step by step concepts on how to connect EC2 instance like Linux from AWS to a primary pc through ssh using GitBash and Mobaxterm CLI
 
