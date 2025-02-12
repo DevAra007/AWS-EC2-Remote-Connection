@@ -8,7 +8,7 @@ This is a Step by step concepts on how to connect EC2 instance like Linux from A
 - Ubuntu EC2 Instance (Virtual Machine)
 - SSH
 - Gitbash CLI
-- Mobexterm CLI
+- Mobaxterm CLI
 
 
 [Video](https://drive.google.com/file/d/1uMn2e4599qFLc0QTSKXYJ74E0wfKyWoi/view?usp=sharing)
